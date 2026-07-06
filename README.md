@@ -10,11 +10,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/SatyamSingh-16/DSA/tree/master/0169-majority-element) |
 | [1408-string-matching-in-an-array](https://github.com/SatyamSingh-16/DSA/tree/master/1408-string-matching-in-an-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/SatyamSingh-16/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2295-replace-elements-in-an-array](https://github.com/SatyamSingh-16/DSA/tree/master/2295-replace-elements-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SatyamSingh-16/DSA/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/SatyamSingh-16/DSA/tree/master/0169-majority-element) |
+| [2295-replace-elements-in-an-array](https://github.com/SatyamSingh-16/DSA/tree/master/2295-replace-elements-in-an-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -40,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/SatyamSingh-16/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2295-replace-elements-in-an-array](https://github.com/SatyamSingh-16/DSA/tree/master/2295-replace-elements-in-an-array) |
 ## String
 |  |
 | ------- |
