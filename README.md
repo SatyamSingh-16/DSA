@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SatyamSingh-16/DSA/tree/master/0001-two-sum) |
+| [0031-next-permutation](https://github.com/SatyamSingh-16/DSA/tree/master/0031-next-permutation) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SatyamSingh-16/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/SatyamSingh-16/DSA/tree/master/0169-majority-element) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/SatyamSingh-16/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/SatyamSingh-16/DSA/tree/master/0031-next-permutation) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/SatyamSingh-16/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Simulation
 |  |
