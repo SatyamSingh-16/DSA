@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/SatyamSingh-16/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/SatyamSingh-16/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0875-koko-eating-bananas](https://github.com/SatyamSingh-16/DSA/tree/master/0875-koko-eating-bananas) |
+| [1004-max-consecutive-ones-iii](https://github.com/SatyamSingh-16/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/SatyamSingh-16/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1408-string-matching-in-an-array](https://github.com/SatyamSingh-16/DSA/tree/master/1408-string-matching-in-an-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/SatyamSingh-16/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/SatyamSingh-16/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/SatyamSingh-16/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0875-koko-eating-bananas](https://github.com/SatyamSingh-16/DSA/tree/master/0875-koko-eating-bananas) |
+| [1004-max-consecutive-ones-iii](https://github.com/SatyamSingh-16/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/SatyamSingh-16/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/SatyamSingh-16/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 ## Math
@@ -106,10 +108,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/SatyamSingh-16/DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [1004-max-consecutive-ones-iii](https://github.com/SatyamSingh-16/DSA/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/SatyamSingh-16/DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [1004-max-consecutive-ones-iii](https://github.com/SatyamSingh-16/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/SatyamSingh-16/DSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Bit Manipulation
 |  |
