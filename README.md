@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SatyamSingh-16/DSA/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/SatyamSingh-16/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/SatyamSingh-16/DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/SatyamSingh-16/DSA/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/SatyamSingh-16/DSA/tree/master/0349-intersection-of-two-arrays) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/SatyamSingh-16/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1408-string-matching-in-an-array](https://github.com/SatyamSingh-16/DSA/tree/master/1408-string-matching-in-an-array) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/SatyamSingh-16/DSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## String Matching
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/SatyamSingh-16/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/SatyamSingh-16/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/SatyamSingh-16/DSA/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum
