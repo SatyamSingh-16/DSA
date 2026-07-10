@@ -9,7 +9,7 @@ class Solution {
                 zeroC++;
             }
 
-            while(zeroC>k){
+            if(zeroC>k){
                 if(nums[l]==0){
                     zeroC--;
                 }
