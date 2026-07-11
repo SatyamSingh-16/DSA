@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/SatyamSingh-16/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0875-koko-eating-bananas](https://github.com/SatyamSingh-16/DSA/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/SatyamSingh-16/DSA/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/SatyamSingh-16/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/SatyamSingh-16/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/SatyamSingh-16/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1408-string-matching-in-an-array](https://github.com/SatyamSingh-16/DSA/tree/master/1408-string-matching-in-an-array) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/SatyamSingh-16/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/SatyamSingh-16/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0904-fruit-into-baskets](https://github.com/SatyamSingh-16/DSA/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/SatyamSingh-16/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/SatyamSingh-16/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2295-replace-elements-in-an-array](https://github.com/SatyamSingh-16/DSA/tree/master/2295-replace-elements-in-an-array) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/SatyamSingh-16/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/SatyamSingh-16/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/SatyamSingh-16/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0904-fruit-into-baskets](https://github.com/SatyamSingh-16/DSA/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/SatyamSingh-16/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/SatyamSingh-16/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/SatyamSingh-16/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/SatyamSingh-16/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -136,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/SatyamSingh-16/DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0930-binary-subarrays-with-sum](https://github.com/SatyamSingh-16/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/SatyamSingh-16/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/SatyamSingh-16/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/SatyamSingh-16/DSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
