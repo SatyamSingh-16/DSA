@@ -180,4 +180,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/SatyamSingh-16/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0203-remove-linked-list-elements](https://github.com/SatyamSingh-16/DSA/tree/master/0203-remove-linked-list-elements) |
+## Recursion
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/SatyamSingh-16/DSA/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
