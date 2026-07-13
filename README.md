@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/SatyamSingh-16/DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/SatyamSingh-16/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/SatyamSingh-16/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0876-middle-of-the-linked-list](https://github.com/SatyamSingh-16/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/SatyamSingh-16/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Simulation
 |  |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0083-remove-duplicates-from-sorted-list](https://github.com/SatyamSingh-16/DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0203-remove-linked-list-elements](https://github.com/SatyamSingh-16/DSA/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/SatyamSingh-16/DSA/tree/master/0234-palindrome-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/SatyamSingh-16/DSA/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
