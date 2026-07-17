@@ -227,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/SatyamSingh-16/DSA/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/SatyamSingh-16/DSA/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/SatyamSingh-16/DSA/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/SatyamSingh-16/DSA/tree/master/0682-baseball-game) |
 | [1019-next-greater-node-in-linked-list](https://github.com/SatyamSingh-16/DSA/tree/master/1019-next-greater-node-in-linked-list) |
@@ -242,4 +243,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1019-next-greater-node-in-linked-list](https://github.com/SatyamSingh-16/DSA/tree/master/1019-next-greater-node-in-linked-list) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/SatyamSingh-16/DSA/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
