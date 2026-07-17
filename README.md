@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/SatyamSingh-16/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/SatyamSingh-16/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/SatyamSingh-16/DSA/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/SatyamSingh-16/DSA/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/SatyamSingh-16/DSA/tree/master/0682-baseball-game) |
 | [0875-koko-eating-bananas](https://github.com/SatyamSingh-16/DSA/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/SatyamSingh-16/DSA/tree/master/0904-fruit-into-baskets) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/SatyamSingh-16/DSA/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/SatyamSingh-16/DSA/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/SatyamSingh-16/DSA/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/SatyamSingh-16/DSA/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/SatyamSingh-16/DSA/tree/master/0682-baseball-game) |
 | [1019-next-greater-node-in-linked-list](https://github.com/SatyamSingh-16/DSA/tree/master/1019-next-greater-node-in-linked-list) |
 ## Heap (Priority Queue)
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/SatyamSingh-16/DSA/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/SatyamSingh-16/DSA/tree/master/0503-next-greater-element-ii) |
 | [1019-next-greater-node-in-linked-list](https://github.com/SatyamSingh-16/DSA/tree/master/1019-next-greater-node-in-linked-list) |
 ## Design
 |  |
