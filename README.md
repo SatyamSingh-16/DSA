@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/SatyamSingh-16/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/SatyamSingh-16/DSA/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SatyamSingh-16/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0907-sum-of-subarray-minimums](https://github.com/SatyamSingh-16/DSA/tree/master/0907-sum-of-subarray-minimums) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SatyamSingh-16/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/SatyamSingh-16/DSA/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/SatyamSingh-16/DSA/tree/master/0032-longest-valid-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/SatyamSingh-16/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1408-string-matching-in-an-array](https://github.com/SatyamSingh-16/DSA/tree/master/1408-string-matching-in-an-array) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/SatyamSingh-16/DSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/SatyamSingh-16/DSA/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/SatyamSingh-16/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/SatyamSingh-16/DSA/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/SatyamSingh-16/DSA/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/SatyamSingh-16/DSA/tree/master/0155-min-stack) |
