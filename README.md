@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/SatyamSingh-16/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/SatyamSingh-16/DSA/tree/master/0042-trapping-rain-water) |
+| [0070-climbing-stairs](https://github.com/SatyamSingh-16/DSA/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SatyamSingh-16/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0907-sum-of-subarray-minimums](https://github.com/SatyamSingh-16/DSA/tree/master/0907-sum-of-subarray-minimums) |
 ## Two Pointers
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/SatyamSingh-16/DSA/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/SatyamSingh-16/DSA/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/SatyamSingh-16/DSA/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/SatyamSingh-16/DSA/tree/master/0070-climbing-stairs) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/SatyamSingh-16/DSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Sliding Window
 |  |
@@ -273,4 +275,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/SatyamSingh-16/DSA/tree/master/0155-min-stack) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/SatyamSingh-16/DSA/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
