@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/SatyamSingh-16/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/SatyamSingh-16/DSA/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/SatyamSingh-16/DSA/tree/master/0238-product-of-array-except-self) |
+| [0260-single-number-iii](https://github.com/SatyamSingh-16/DSA/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/SatyamSingh-16/DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/SatyamSingh-16/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/SatyamSingh-16/DSA/tree/master/0349-intersection-of-two-arrays) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/SatyamSingh-16/DSA/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/SatyamSingh-16/DSA/tree/master/0137-single-number-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/SatyamSingh-16/DSA/tree/master/0222-count-complete-tree-nodes) |
+| [0260-single-number-iii](https://github.com/SatyamSingh-16/DSA/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/SatyamSingh-16/DSA/tree/master/0287-find-the-duplicate-number) |
 ## Database
 |  |
