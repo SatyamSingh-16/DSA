@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/SatyamSingh-16/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0682-baseball-game](https://github.com/SatyamSingh-16/DSA/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/SatyamSingh-16/DSA/tree/master/0735-asteroid-collision) |
+| [0832-flipping-an-image](https://github.com/SatyamSingh-16/DSA/tree/master/0832-flipping-an-image) |
 | [0875-koko-eating-bananas](https://github.com/SatyamSingh-16/DSA/tree/master/0875-koko-eating-bananas) |
 | [0896-monotonic-array](https://github.com/SatyamSingh-16/DSA/tree/master/0896-monotonic-array) |
 | [0904-fruit-into-baskets](https://github.com/SatyamSingh-16/DSA/tree/master/0904-fruit-into-baskets) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/SatyamSingh-16/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SatyamSingh-16/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/SatyamSingh-16/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0832-flipping-an-image](https://github.com/SatyamSingh-16/DSA/tree/master/0832-flipping-an-image) |
 | [0876-middle-of-the-linked-list](https://github.com/SatyamSingh-16/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/SatyamSingh-16/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Simulation
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0682-baseball-game](https://github.com/SatyamSingh-16/DSA/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/SatyamSingh-16/DSA/tree/master/0735-asteroid-collision) |
+| [0832-flipping-an-image](https://github.com/SatyamSingh-16/DSA/tree/master/0832-flipping-an-image) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/SatyamSingh-16/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2295-replace-elements-in-an-array](https://github.com/SatyamSingh-16/DSA/tree/master/2295-replace-elements-in-an-array) |
 ## String
@@ -234,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/SatyamSingh-16/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0260-single-number-iii](https://github.com/SatyamSingh-16/DSA/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/SatyamSingh-16/DSA/tree/master/0287-find-the-duplicate-number) |
+| [0832-flipping-an-image](https://github.com/SatyamSingh-16/DSA/tree/master/0832-flipping-an-image) |
 ## Database
 |  |
 | ------- |
@@ -242,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/SatyamSingh-16/DSA/tree/master/0074-search-a-2d-matrix) |
+| [0832-flipping-an-image](https://github.com/SatyamSingh-16/DSA/tree/master/0832-flipping-an-image) |
 ## Interactive
 |  |
 | ------- |
