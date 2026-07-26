@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/SatyamSingh-16/DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/SatyamSingh-16/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/SatyamSingh-16/DSA/tree/master/0303-range-sum-query-immutable) |
+| [0304-range-sum-query-2d-immutable](https://github.com/SatyamSingh-16/DSA/tree/master/0304-range-sum-query-2d-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/SatyamSingh-16/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SatyamSingh-16/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/SatyamSingh-16/DSA/tree/master/0414-third-maximum-number) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/SatyamSingh-16/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/SatyamSingh-16/DSA/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/SatyamSingh-16/DSA/tree/master/0303-range-sum-query-immutable) |
+| [0304-range-sum-query-2d-immutable](https://github.com/SatyamSingh-16/DSA/tree/master/0304-range-sum-query-2d-immutable) |
 | [0930-binary-subarrays-with-sum](https://github.com/SatyamSingh-16/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/SatyamSingh-16/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/SatyamSingh-16/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -263,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/SatyamSingh-16/DSA/tree/master/0074-search-a-2d-matrix) |
+| [0304-range-sum-query-2d-immutable](https://github.com/SatyamSingh-16/DSA/tree/master/0304-range-sum-query-2d-immutable) |
 | [0463-island-perimeter](https://github.com/SatyamSingh-16/DSA/tree/master/0463-island-perimeter) |
 | [0832-flipping-an-image](https://github.com/SatyamSingh-16/DSA/tree/master/0832-flipping-an-image) |
 ## Interactive
@@ -349,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/SatyamSingh-16/DSA/tree/master/0155-min-stack) |
 | [0303-range-sum-query-immutable](https://github.com/SatyamSingh-16/DSA/tree/master/0303-range-sum-query-immutable) |
+| [0304-range-sum-query-2d-immutable](https://github.com/SatyamSingh-16/DSA/tree/master/0304-range-sum-query-2d-immutable) |
 ## Memoization
 |  |
 | ------- |
