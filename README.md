@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/SatyamSingh-16/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/SatyamSingh-16/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/SatyamSingh-16/DSA/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [1656-design-an-ordered-stream](https://github.com/SatyamSingh-16/DSA/tree/master/1656-design-an-ordered-stream) |
 | [1732-find-the-highest-altitude](https://github.com/SatyamSingh-16/DSA/tree/master/1732-find-the-highest-altitude) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/SatyamSingh-16/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2295-replace-elements-in-an-array](https://github.com/SatyamSingh-16/DSA/tree/master/2295-replace-elements-in-an-array) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/SatyamSingh-16/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/SatyamSingh-16/DSA/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/SatyamSingh-16/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1656-design-an-ordered-stream](https://github.com/SatyamSingh-16/DSA/tree/master/1656-design-an-ordered-stream) |
 | [2295-replace-elements-in-an-array](https://github.com/SatyamSingh-16/DSA/tree/master/2295-replace-elements-in-an-array) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/SatyamSingh-16/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Divide and Conquer
@@ -373,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/SatyamSingh-16/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/SatyamSingh-16/DSA/tree/master/0304-range-sum-query-2d-immutable) |
 | [1603-design-parking-system](https://github.com/SatyamSingh-16/DSA/tree/master/1603-design-parking-system) |
+| [1656-design-an-ordered-stream](https://github.com/SatyamSingh-16/DSA/tree/master/1656-design-an-ordered-stream) |
 ## Memoization
 |  |
 | ------- |
@@ -445,4 +448,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/SatyamSingh-16/DSA/tree/master/0011-container-with-most-water) |
 | [2971-find-polygon-with-the-largest-perimeter](https://github.com/SatyamSingh-16/DSA/tree/master/2971-find-polygon-with-the-largest-perimeter) |
+## Data Stream
+|  |
+| ------- |
+| [1656-design-an-ordered-stream](https://github.com/SatyamSingh-16/DSA/tree/master/1656-design-an-ordered-stream) |
 <!---LeetCode Topics End-->
