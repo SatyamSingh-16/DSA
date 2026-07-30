@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/SatyamSingh-16/DSA/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/SatyamSingh-16/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/SatyamSingh-16/DSA/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/SatyamSingh-16/DSA/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/SatyamSingh-16/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SatyamSingh-16/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/SatyamSingh-16/DSA/tree/master/0383-ransom-note) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/SatyamSingh-16/DSA/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/SatyamSingh-16/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/SatyamSingh-16/DSA/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/SatyamSingh-16/DSA/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/SatyamSingh-16/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SatyamSingh-16/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/SatyamSingh-16/DSA/tree/master/0389-find-the-difference) |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/SatyamSingh-16/DSA/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SatyamSingh-16/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/SatyamSingh-16/DSA/tree/master/0032-longest-valid-parentheses) |
+| [0242-valid-anagram](https://github.com/SatyamSingh-16/DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/SatyamSingh-16/DSA/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/SatyamSingh-16/DSA/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/SatyamSingh-16/DSA/tree/master/0389-find-the-difference) |
