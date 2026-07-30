@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/SatyamSingh-16/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1019-next-greater-node-in-linked-list](https://github.com/SatyamSingh-16/DSA/tree/master/1019-next-greater-node-in-linked-list) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/SatyamSingh-16/DSA/tree/master/1074-number-of-submatrices-that-sum-to-target) |
+| [1095-find-in-mountain-array](https://github.com/SatyamSingh-16/DSA/tree/master/1095-find-in-mountain-array) |
 | [1408-string-matching-in-an-array](https://github.com/SatyamSingh-16/DSA/tree/master/1408-string-matching-in-an-array) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/SatyamSingh-16/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/SatyamSingh-16/DSA/tree/master/1480-running-sum-of-1d-array) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0878-nth-magical-number](https://github.com/SatyamSingh-16/DSA/tree/master/0878-nth-magical-number) |
 | [1004-max-consecutive-ones-iii](https://github.com/SatyamSingh-16/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/SatyamSingh-16/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1095-find-in-mountain-array](https://github.com/SatyamSingh-16/DSA/tree/master/1095-find-in-mountain-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/SatyamSingh-16/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/SatyamSingh-16/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Math
@@ -301,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/SatyamSingh-16/DSA/tree/master/0278-first-bad-version) |
+| [1095-find-in-mountain-array](https://github.com/SatyamSingh-16/DSA/tree/master/1095-find-in-mountain-array) |
 ## Union-Find
 |  |
 | ------- |
