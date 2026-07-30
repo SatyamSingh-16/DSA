@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/SatyamSingh-16/DSA/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1656-design-an-ordered-stream](https://github.com/SatyamSingh-16/DSA/tree/master/1656-design-an-ordered-stream) |
 | [1732-find-the-highest-altitude](https://github.com/SatyamSingh-16/DSA/tree/master/1732-find-the-highest-altitude) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/SatyamSingh-16/DSA/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/SatyamSingh-16/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2295-replace-elements-in-an-array](https://github.com/SatyamSingh-16/DSA/tree/master/2295-replace-elements-in-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/SatyamSingh-16/DSA/tree/master/2574-left-and-right-sum-differences) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/SatyamSingh-16/DSA/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/SatyamSingh-16/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1656-design-an-ordered-stream](https://github.com/SatyamSingh-16/DSA/tree/master/1656-design-an-ordered-stream) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/SatyamSingh-16/DSA/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2295-replace-elements-in-an-array](https://github.com/SatyamSingh-16/DSA/tree/master/2295-replace-elements-in-an-array) |
 | [2351-first-letter-to-appear-twice](https://github.com/SatyamSingh-16/DSA/tree/master/2351-first-letter-to-appear-twice) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/SatyamSingh-16/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/SatyamSingh-16/DSA/tree/master/0229-majority-element-ii) |
 | [0383-ransom-note](https://github.com/SatyamSingh-16/DSA/tree/master/0383-ransom-note) |
 | [1603-design-parking-system](https://github.com/SatyamSingh-16/DSA/tree/master/1603-design-parking-system) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/SatyamSingh-16/DSA/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2351-first-letter-to-appear-twice](https://github.com/SatyamSingh-16/DSA/tree/master/2351-first-letter-to-appear-twice) |
 ## Dynamic Programming
 |  |
