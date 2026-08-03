@@ -362,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/SatyamSingh-16/DSA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/SatyamSingh-16/DSA/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/SatyamSingh-16/DSA/tree/master/0237-delete-node-in-a-linked-list) |
+| [0707-design-linked-list](https://github.com/SatyamSingh-16/DSA/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/SatyamSingh-16/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [1019-next-greater-node-in-linked-list](https://github.com/SatyamSingh-16/DSA/tree/master/1019-next-greater-node-in-linked-list) |
 | [1669-merge-in-between-linked-lists](https://github.com/SatyamSingh-16/DSA/tree/master/1669-merge-in-between-linked-lists) |
@@ -415,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/SatyamSingh-16/DSA/tree/master/0155-min-stack) |
 | [0303-range-sum-query-immutable](https://github.com/SatyamSingh-16/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/SatyamSingh-16/DSA/tree/master/0304-range-sum-query-2d-immutable) |
+| [0707-design-linked-list](https://github.com/SatyamSingh-16/DSA/tree/master/0707-design-linked-list) |
 | [1603-design-parking-system](https://github.com/SatyamSingh-16/DSA/tree/master/1603-design-parking-system) |
 | [1656-design-an-ordered-stream](https://github.com/SatyamSingh-16/DSA/tree/master/1656-design-an-ordered-stream) |
 ## Memoization
