@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0657-robot-return-to-origin](https://github.com/SatyamSingh-16/DSA/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/SatyamSingh-16/DSA/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/SatyamSingh-16/DSA/tree/master/0735-asteroid-collision) |
 | [0832-flipping-an-image](https://github.com/SatyamSingh-16/DSA/tree/master/0832-flipping-an-image) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/SatyamSingh-16/DSA/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/SatyamSingh-16/DSA/tree/master/0389-find-the-difference) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/SatyamSingh-16/DSA/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0657-robot-return-to-origin](https://github.com/SatyamSingh-16/DSA/tree/master/0657-robot-return-to-origin) |
 | [0709-to-lower-case](https://github.com/SatyamSingh-16/DSA/tree/master/0709-to-lower-case) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/SatyamSingh-16/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1408-string-matching-in-an-array](https://github.com/SatyamSingh-16/DSA/tree/master/1408-string-matching-in-an-array) |
