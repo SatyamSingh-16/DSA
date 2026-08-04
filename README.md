@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/SatyamSingh-16/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/SatyamSingh-16/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0169-majority-element](https://github.com/SatyamSingh-16/DSA/tree/master/0169-majority-element) |
+| [0191-number-of-1-bits](https://github.com/SatyamSingh-16/DSA/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/SatyamSingh-16/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 ## Sorting
 |  |
@@ -315,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/SatyamSingh-16/DSA/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/SatyamSingh-16/DSA/tree/master/0137-single-number-ii) |
+| [0191-number-of-1-bits](https://github.com/SatyamSingh-16/DSA/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/SatyamSingh-16/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0260-single-number-iii](https://github.com/SatyamSingh-16/DSA/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/SatyamSingh-16/DSA/tree/master/0287-find-the-duplicate-number) |
