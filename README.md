@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/SatyamSingh-16/DSA/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/SatyamSingh-16/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1656-design-an-ordered-stream](https://github.com/SatyamSingh-16/DSA/tree/master/1656-design-an-ordered-stream) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/SatyamSingh-16/DSA/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/SatyamSingh-16/DSA/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2295-replace-elements-in-an-array](https://github.com/SatyamSingh-16/DSA/tree/master/2295-replace-elements-in-an-array) |
 | [2351-first-letter-to-appear-twice](https://github.com/SatyamSingh-16/DSA/tree/master/2351-first-letter-to-appear-twice) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/SatyamSingh-16/DSA/tree/master/0709-to-lower-case) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/SatyamSingh-16/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1408-string-matching-in-an-array](https://github.com/SatyamSingh-16/DSA/tree/master/1408-string-matching-in-an-array) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/SatyamSingh-16/DSA/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1957-delete-characters-to-make-fancy-string](https://github.com/SatyamSingh-16/DSA/tree/master/1957-delete-characters-to-make-fancy-string) |
 | [2351-first-letter-to-appear-twice](https://github.com/SatyamSingh-16/DSA/tree/master/2351-first-letter-to-appear-twice) |
 | [2490-circular-sentence](https://github.com/SatyamSingh-16/DSA/tree/master/2490-circular-sentence) |
