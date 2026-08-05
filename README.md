@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-next-greater-node-in-linked-list](https://github.com/SatyamSingh-16/DSA/tree/master/1019-next-greater-node-in-linked-list) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/SatyamSingh-16/DSA/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1095-find-in-mountain-array](https://github.com/SatyamSingh-16/DSA/tree/master/1095-find-in-mountain-array) |
+| [1389-create-target-array-in-the-given-order](https://github.com/SatyamSingh-16/DSA/tree/master/1389-create-target-array-in-the-given-order) |
 | [1408-string-matching-in-an-array](https://github.com/SatyamSingh-16/DSA/tree/master/1408-string-matching-in-an-array) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/SatyamSingh-16/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/SatyamSingh-16/DSA/tree/master/1480-running-sum-of-1d-array) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/SatyamSingh-16/DSA/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/SatyamSingh-16/DSA/tree/master/0735-asteroid-collision) |
 | [0832-flipping-an-image](https://github.com/SatyamSingh-16/DSA/tree/master/0832-flipping-an-image) |
+| [1389-create-target-array-in-the-given-order](https://github.com/SatyamSingh-16/DSA/tree/master/1389-create-target-array-in-the-given-order) |
 | [1603-design-parking-system](https://github.com/SatyamSingh-16/DSA/tree/master/1603-design-parking-system) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/SatyamSingh-16/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2295-replace-elements-in-an-array](https://github.com/SatyamSingh-16/DSA/tree/master/2295-replace-elements-in-an-array) |
