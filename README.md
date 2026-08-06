@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-next-greater-node-in-linked-list](https://github.com/SatyamSingh-16/DSA/tree/master/1019-next-greater-node-in-linked-list) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/SatyamSingh-16/DSA/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1095-find-in-mountain-array](https://github.com/SatyamSingh-16/DSA/tree/master/1095-find-in-mountain-array) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SatyamSingh-16/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1389-create-target-array-in-the-given-order](https://github.com/SatyamSingh-16/DSA/tree/master/1389-create-target-array-in-the-given-order) |
 | [1408-string-matching-in-an-array](https://github.com/SatyamSingh-16/DSA/tree/master/1408-string-matching-in-an-array) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/SatyamSingh-16/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/SatyamSingh-16/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/SatyamSingh-16/DSA/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/SatyamSingh-16/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SatyamSingh-16/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1656-design-an-ordered-stream](https://github.com/SatyamSingh-16/DSA/tree/master/1656-design-an-ordered-stream) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/SatyamSingh-16/DSA/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/SatyamSingh-16/DSA/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/SatyamSingh-16/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/SatyamSingh-16/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/SatyamSingh-16/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SatyamSingh-16/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2971-find-polygon-with-the-largest-perimeter](https://github.com/SatyamSingh-16/DSA/tree/master/2971-find-polygon-with-the-largest-perimeter) |
 ## Counting
 |  |
@@ -523,4 +526,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/SatyamSingh-16/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SatyamSingh-16/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
