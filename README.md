@@ -225,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/SatyamSingh-16/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/SatyamSingh-16/DSA/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/SatyamSingh-16/DSA/tree/master/0151-reverse-words-in-a-string) |
+| [0168-excel-sheet-column-title](https://github.com/SatyamSingh-16/DSA/tree/master/0168-excel-sheet-column-title) |
 | [0179-largest-number](https://github.com/SatyamSingh-16/DSA/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/SatyamSingh-16/DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/SatyamSingh-16/DSA/tree/master/0242-valid-anagram) |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/SatyamSingh-16/DSA/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/SatyamSingh-16/DSA/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/SatyamSingh-16/DSA/tree/master/0070-climbing-stairs) |
+| [0168-excel-sheet-column-title](https://github.com/SatyamSingh-16/DSA/tree/master/0168-excel-sheet-column-title) |
 | [0367-valid-perfect-square](https://github.com/SatyamSingh-16/DSA/tree/master/0367-valid-perfect-square) |
 | [0878-nth-magical-number](https://github.com/SatyamSingh-16/DSA/tree/master/0878-nth-magical-number) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/SatyamSingh-16/DSA/tree/master/1588-sum-of-all-odd-length-subarrays) |
