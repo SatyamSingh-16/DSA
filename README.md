@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/SatyamSingh-16/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/SatyamSingh-16/DSA/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1656-design-an-ordered-stream](https://github.com/SatyamSingh-16/DSA/tree/master/1656-design-an-ordered-stream) |
+| [1672-richest-customer-wealth](https://github.com/SatyamSingh-16/DSA/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/SatyamSingh-16/DSA/tree/master/1732-find-the-highest-altitude) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/SatyamSingh-16/DSA/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/SatyamSingh-16/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -353,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/SatyamSingh-16/DSA/tree/master/0463-island-perimeter) |
 | [0832-flipping-an-image](https://github.com/SatyamSingh-16/DSA/tree/master/0832-flipping-an-image) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/SatyamSingh-16/DSA/tree/master/1074-number-of-submatrices-that-sum-to-target) |
+| [1672-richest-customer-wealth](https://github.com/SatyamSingh-16/DSA/tree/master/1672-richest-customer-wealth) |
 ## Interactive
 |  |
 | ------- |
