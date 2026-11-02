@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/SatyamSingh-16/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/SatyamSingh-16/DSA/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/SatyamSingh-16/DSA/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/SatyamSingh-16/DSA/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/SatyamSingh-16/DSA/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/SatyamSingh-16/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/SatyamSingh-16/DSA/tree/master/0075-sort-colors) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/SatyamSingh-16/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/SatyamSingh-16/DSA/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/SatyamSingh-16/DSA/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/SatyamSingh-16/DSA/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/SatyamSingh-16/DSA/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/SatyamSingh-16/DSA/tree/master/0215-kth-largest-element-in-an-array) |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/SatyamSingh-16/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0032-longest-valid-parentheses](https://github.com/SatyamSingh-16/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/SatyamSingh-16/DSA/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/SatyamSingh-16/DSA/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/SatyamSingh-16/DSA/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SatyamSingh-16/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/SatyamSingh-16/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
