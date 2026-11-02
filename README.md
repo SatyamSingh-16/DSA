@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/SatyamSingh-16/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/SatyamSingh-16/DSA/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SatyamSingh-16/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/SatyamSingh-16/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/SatyamSingh-16/DSA/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/SatyamSingh-16/DSA/tree/master/0137-single-number-ii) |
 | [0152-maximum-product-subarray](https://github.com/SatyamSingh-16/DSA/tree/master/0152-maximum-product-subarray) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/SatyamSingh-16/DSA/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SatyamSingh-16/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/SatyamSingh-16/DSA/tree/master/0013-roman-to-integer) |
+| [0128-longest-consecutive-sequence](https://github.com/SatyamSingh-16/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/SatyamSingh-16/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/SatyamSingh-16/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/SatyamSingh-16/DSA/tree/master/0160-intersection-of-two-linked-lists) |
@@ -366,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/SatyamSingh-16/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/SatyamSingh-16/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Graph Theory
 |  |
