@@ -544,4 +544,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SatyamSingh-16/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/SatyamSingh-16/DSA/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
