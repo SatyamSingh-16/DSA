@@ -558,4 +558,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/SatyamSingh-16/DSA/tree/master/0142-linked-list-cycle-ii) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/SatyamSingh-16/DSA/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
